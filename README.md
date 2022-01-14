@@ -17,7 +17,7 @@ An app that let's you add or delete notes.
 
 3) Note that you can write the title upto a limit of 20 characters
 
-4) And the content has a character limit of 200 characters which is reflected
+4) And the content has a character limit of 150 characters which is reflected
 
 
 #_Removing a note_
